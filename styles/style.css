@@ -271,6 +271,7 @@ main {
   font-size: 56px;
   line-height: 67.2px;
   color: #121212;
+  word-break: break-all;
 }
 
 .intro__title span {
